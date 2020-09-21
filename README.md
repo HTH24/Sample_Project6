@@ -1,3 +1,3 @@
-# Sample_Project6
+# Swift_Sample_Project6
 
 # Game Pachinko.
